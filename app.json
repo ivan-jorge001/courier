@@ -1,0 +1,17 @@
+{
+  "name": "CourierApp",
+  "displayName": "CourierApp",
+  "expo": {
+    "name": "CourierApp",
+    "slug": "CourierApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
