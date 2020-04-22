@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>137141939076-k7fj7vfgbigak8ihl3a00suggsea6ukh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.137141939076-k7fj7vfgbigak8ihl3a00suggsea6ukh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqRTnFX6VM2vlKZ8akyN3HwdZI6WWyUSY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>137141939076</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.CourierApp2</string>
+	<key>PROJECT_ID</key>
+	<string>courier-app-22b96</string>
+	<key>STORAGE_BUCKET</key>
+	<string>courier-app-22b96.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:137141939076:ios:d4a6c2bd8f7189d3b84bd1</string>
+	<key>DATABASE_URL</key>
+	<string>https://courier-app-22b96.firebaseio.com</string>
+</dict>
+</plist>
